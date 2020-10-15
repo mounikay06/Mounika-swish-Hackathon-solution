@@ -1,4 +1,4 @@
-#include<stdio.h>
+include<stdio.h>
 int main(){
 	int discount,price;
 	int total=0;
